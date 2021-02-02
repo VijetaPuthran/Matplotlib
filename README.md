@@ -16,8 +16,6 @@ Below are the analysis made on the mouse data and the various types of plots tha
 
 ![PandasBarPlot](Images/TotalMeasurementsPandas.png)
 
-![PyplotBarPlot](Images/TotalMeasurementsPyplot.png)
-
 * The data was group using the gender of the mice and pie plots were generated using both Pandas's `DataFrame.plot()` and Matplotlib's `pyplot` that shows the distribution of female or male mice in the study.
 
 * The final tumor volume of each mouse across four of the most promising treatment regimens, were calculated: Capomulin, Ramicane, Infubinol, and Ceftamin. Then the potential outliers across all four treatment regimens are calculated.
