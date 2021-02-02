@@ -41,3 +41,11 @@ Below are the analysis made on the mouse data and the various types of plots tha
 * The correlation coefficient and linear regression model value is calculated between mouse weight and average tumor volume for the Capomulin treatment. The linear regression model is plotted on top of the previous scatter plot.
 
 ![CorrelationLinearRegression](Images/CorrelationRegression.png)
+
+## Observations:
+
+* The groupby function for the mouse showed that the male and female mice are almost uniformly distributed in the study of different drug regimen. This shows that the effectiveness of the drug regimen would be almost the same when treated on male or female mice.
+
+* The line plot shows that the drug regimen, Capomulin is one of the effective treatments that has a decreasing trend on the tumor volume over the timepoint. The mouse selected showed a gradual decrease in the tumor volume over a period of time.
+
+* The relation between the weight of the mouse and the volume had a linear regression trend. The highter the weight of the mouse, the tumor volume was found to be directly proportional to it.
