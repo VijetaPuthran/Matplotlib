@@ -38,4 +38,4 @@ Below are the analysis made on the mouse data and the various types of plots tha
 
 * The line plot shows that the drug regimen, Capomulin is one of the effective treatments that has a decreasing trend on the tumor volume over the timepoint. The mouse selected showed a gradual decrease in the tumor volume over a period of time.
 
-* The relation between the weight of the mouse and the volume had a linear regression trend. The highter the weight of the mouse, the tumor volume was found to be directly proportional to it.
+* The relation between the weight of the mouse and the volume had a linear regression trend. The higher the weight of the mouse, the larger the tumor volume was found to . They are directly proportional to each other.
